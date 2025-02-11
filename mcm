@@ -31,18 +31,26 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310618
 #EXTINF:-1,Food Network HD
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/15672.ts
-#EXTINF:-1,MX |* E ENTERTAINMENT HD
-http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310624
+#EXTINF:0,E! Entertainment HD1
+http://200.113.4.75:7210/play/a00v/index.m3u8
 #EXTINF:-1,E! entertainment TV
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/13940.ts
 #EXTINF:-1,HGTV HD1
 http://45.71.37.194:8010/play/a0de/index.m3u8
 #EXTINF:-1,HGTV HD2
 http://177.234.230.206:8011/play/a0ez/index.m3u8
+#EXTINF:0,El Gourmet HD1
+http://181.176.153.106:8090/play/a1ah/index.m3u8
+#EXTINF:0,El Gourmet HD2
+http://181.176.155.7:8090/play/a1ah/index.m3u8
 #EXTINF:-1,MX |* TLC FHD
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310663
 #EXTINF:-1,MX |* MAS CHIC FHD
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310650
+#EXTINF:0,Lifetime HD1
+http://200.59.188.3:8000/play/a05p
+#EXTINF:0,Lifetime HD2
+http://177.53.155.236:8000/play/a02k/index.m3u8
 #EXTINF:-1,MX || A&E HD
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/81947
 #EXTINF:-1,MX |* DISCOVERY CHANNEL HD
@@ -51,6 +59,8 @@ http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310630
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/16916.ts
 EXTINF:-1,Discovery World HD
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/13912.ts
+#EXTINF:0,DISCOVERY WORLD HD2
+http://181.176.155.7:8090/play/a0yf/index.m3u8
 #EXTINF:-1,Discovery H&H HD
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/13947.ts
 #EXTINF:-1,MX |* DISCOVERY TURBO HD
@@ -125,6 +135,14 @@ http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310598
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/14002.ts
 #EXTINF:-1,MX |* UNIVERSAL CHANNEL HD
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310656
+#EXTINF:0,UNIVERSAL PREMIERE HD1
+http://181.78.27.128:8000/play/a02e/index.m3u8
+#EXTINF:0,UNIVERSAL CINEMA HD1
+http://181.78.27.128:8000/play/a02f/index.m3u8
+#EXTINF:0,UNIVERSAL COMEDY HD1
+http://177.53.155.236:8000/play/a094/index.m3u8
+#EXTINF:0,UNIVERSAL CRIMEN HD1
+http://200.115.96.66:4000/play/a033/index.m3u8
 #EXTINF:-1,Cinemax HD
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/15966.ts
 #EXTINF:-1,MX |* CINEMA FHD
@@ -179,3 +197,5 @@ http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310673
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310578
 #EXTINF:-1,MX |* HBO PLUS HD
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310674
+#EXTINF:0,Sun Channel HD4
+http://181.78.105.146:6060/play/a00v
