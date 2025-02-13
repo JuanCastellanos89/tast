@@ -57,9 +57,9 @@ http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/81947
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310630
 #EXTINF:-1,Discovery Channel HD
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/16916.ts
-EXTINF:-1,Discovery World HD
-http://sudaka.link:25461/jotace62/KxU3de1Fr5/13912.ts
-#EXTINF:0,DISCOVERY WORLD HD2
+#EXTINF:-1,Discovery World HD
+http://177.53.155.236:8000/play/a0e3/index.m3u8
+#EXTINF:-1,DISCOVERY WORLD HD2
 http://181.176.155.7:8090/play/a0yf/index.m3u8
 #EXTINF:-1,Discovery H&H HD
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/13947.ts
@@ -77,8 +77,6 @@ http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310632
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310671
 #EXTINF:-1,History HD
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/13945.ts
-#EXTINF:-1,History Channel HD.
-http://sudaka.link:25461/jotace62/KxU3de1Fr5/34621.ts
 #EXTINF:-1,MX | * H2 MEXICO FHD
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310600
 #EXTINF:-1,History 2
@@ -125,7 +123,7 @@ http://sudaka.link:25461/jotace62/KxU3de1Fr5/242.ts
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/13984.ts
 #EXTINF:-1,SONY channel HD
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1595639
-#EXTINF:-1,MX |* SONY CINE HD
+#EXTINF:-1,SONY CINE HD
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310648
 #EXTINF:-1,MX |* TNT HD
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310661
@@ -136,13 +134,13 @@ http://sudaka.link:25461/jotace62/KxU3de1Fr5/14002.ts
 #EXTINF:0,UNIVERSAL CHANNEL HD
 http://45.232.148.101:8000/play/a0od/index.m3u8
 #EXTINF:0,UNIVERSAL PREMIERE HD1
-http://181.78.27.128:8000/play/a02e/index.m3u8
+http://190.61.42.218:9000/play/a006
 #EXTINF:0,UNIVERSAL CINEMA HD1
-http://181.78.27.128:8000/play/a02f/index.m3u8
+http://200.59.188.3:8000/play/a06u
 #EXTINF:0,UNIVERSAL COMEDY HD1
-http://177.53.155.236:8000/play/a094/index.m3u8
+http://190.61.117.35:8000/play/a04z
 #EXTINF:0,UNIVERSAL CRIMEN HD1
-http://200.115.96.66:4000/play/a033/index.m3u8
+http://181.78.105.146:6060/play/a03s
 #EXTINF:-1,Cinemax HD
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/15966.ts
 #EXTINF:-1,MX |* CINECANAL HD
