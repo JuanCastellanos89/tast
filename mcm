@@ -27,14 +27,18 @@ http://190.60.40.35:12500/play/a06h/index.m3u8
 http://190.60.40.35:12500/play/TAVGRO/index.m3u8
 #EXTINF:-1, DWEspanol.de
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1,MX |* FOOD NETWORK HD
+#EXTINF:-1,FOOD NETWORK HD 1
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310618
-#EXTINF:-1,Food Network HD
+#EXTINF:-1,Food Network HD 2
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/15672.ts
+#EXTINF:-1,Food Network HD 3
+http://190.0.241.181:8000/play/a0ac/index.m3u8
 #EXTINF:0,E! Entertainment HD1
 http://200.113.4.75:7210/play/a00v/index.m3u8
-#EXTINF:-1,E! entertainment TV
+#EXTINF:-1,E! entertainment hd2
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/13940.ts
+#EXTINF:-1,E! entertainment hd3
+http://190.0.241.181:8000/play/a0ca/index.m3u8
 #EXTINF:-1,HGTV HD1
 http://45.71.37.194:8010/play/a0de/index.m3u8
 #EXTINF:-1,HGTV HD2
@@ -134,7 +138,7 @@ http://sudaka.link:25461/jotace62/KxU3de1Fr5/14002.ts
 #EXTINF:0,UNIVERSAL CHANNEL HD
 http://45.232.148.101:8000/play/a0od/index.m3u8
 #EXTINF:0,UNIVERSAL PREMIERE HD1
-http://190.61.42.218:9000/play/a006
+http://45.190.187.105:58092/play/a05q
 #EXTINF:0,UNIVERSAL CINEMA HD1
 http://200.59.188.3:8000/play/a06u
 #EXTINF:0,UNIVERSAL COMEDY HD1
@@ -199,3 +203,11 @@ http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1726914
 http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1721669
 #EXTINF:-1,Venus
 http://190.60.40.35:12500/play/VENUS/index.m3u8
+#EXTINF:-1,Sextreme
+http://190.60.40.35:12500/play/SEXTREME/index.m3u8
+#EXTINF:-1,WIN SPORT+ HD10
+http://190.216.112.169:8000/play/a09g}
+#EXTINF:-1,WIN SPORT+ HD11
+http://45.184.87.142:8000/play/a04d
+#EXTINF:-1,WIN SPORT+ HD12
+http://181.119.86.1:8000/play/a01s
