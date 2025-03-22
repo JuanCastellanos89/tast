@@ -2,7 +2,7 @@
 #EXTINF:-1,CaracolTV.co
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1,Caracol HD
-http://190.60.40.35:12500/play/a06b/index.m3u8
+http://190.0.241.181:8000/play/a09o/index.m3u8
 #EXTINF:-1,RCN HD
 http://190.60.40.35:12500/play/a06k/index.m3u8
 #EXTINF:-1,RCN HD
@@ -17,8 +17,6 @@ https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 http://190.60.40.35:12500/play/a06f/index.m3u8
 #EXTINF:-1,Señal Colombia (1080p)
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1,Canal Trece
-http://190.60.40.35:12500/play/a06m/index.m3u8
 #EXTINF:-1,El Tiempo
 http://190.60.40.35:12500/play/a06h/index.m3u8
 #EXTINF:-1,TAVGRO
@@ -41,12 +39,12 @@ http://190.0.241.181:8000/play/a0ca/index.m3u8
 http://45.71.37.194:8010/play/a0de/index.m3u8
 #EXTINF:-1,HGTV HD2
 http://177.234.230.206:8011/play/a0ez/index.m3u8
-#EXTINF:0,El Gourmet HD1
-http://181.176.153.106:8090/play/a1ah/index.m3u8
-#EXTINF:0,El Gourmet HD2
-http://181.176.155.7:8090/play/a1ah/index.m3u8
+#EXTINF:-1,El Gourmet HD1
+http://190.0.241.181:8000/play/a089/index.m3u8
 #EXTINF:-1,MX |* TLC FHD
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310663
+#EXTINF:-1,MX |* TLC HD
+http://190.0.241.181:8000/play/a0c9/index.m3u8
 #EXTINF:-1,MX |* MAS CHIC FHD
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310650
 #EXTINF:0,Lifetime HD1
@@ -55,24 +53,30 @@ http://200.59.188.3:8000/play/a05p
 http://177.53.155.236:8000/play/a02k/index.m3u8
 #EXTINF:-1,MX || A&E HD
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/81947
+#EXTINF:-1,MX || A&E SD
+http://190.0.241.181:8000/play/a08f/index.m3u8
 #EXTINF:-1,MX |* DISCOVERY CHANNEL HD
-http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310630
+http://190.0.241.181:8000/play/a0ax/index.m3u8
 #EXTINF:-1,Discovery Channel HD
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/16916.ts
-#EXTINF:-1,Discovery World HD
-http://177.53.155.236:8000/play/a0e3/index.m3u8
-#EXTINF:-1,DISCOVERY WORLD HD2
+#EXTINF:0,Discovery World HD
 http://181.176.155.7:8090/play/a0yf/index.m3u8
+#EXTINF:0,DISCOVERY WORLD HD2
+http://tvnox.sytes.net:7781/udp://@239.0.4.231:5501
 #EXTINF:-1,Discovery H&H HD
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/13947.ts
+#EXTINF:-1,Discovery H&H HD1
+http://190.60.40.35:12500/play/a0cw/index.m3u8
 #EXTINF:-1,MX |* DISCOVERY TURBO HD
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310628
+#EXTINF:-1,MX |* DISCOVERY TURBO HD1
+http://190.0.241.181:8000/play/a06t/index.m3u8
 #EXTINF:-1,MX |* DISCOVERY SCIENCE HD
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310629
-#EXTINF:-1,Discovery Science HD
-http://sudaka.link:25461/jotace62/KxU3de1Fr5/15041.ts
 #EXTINF:-1,Discovery Theather HD
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/15567.ts
+#EXTINF:-1,MX |* DISCOVERY ID HD
+http://190.0.241.181:8000/play/a0b6/index.m3u8
 #EXTINF:-1,MX |* DISCOVERY ID HD
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310632
 #EXTINF:-1,MX |* HISTORY CHANNEL HD
@@ -81,22 +85,22 @@ http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310671
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/13945.ts
 #EXTINF:-1,MX | * H2 MEXICO FHD
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310600
-#EXTINF:-1,History 2
-http://sudaka.link:25461/jotace62/KxU3de1Fr5/15316.ts
 #EXTINF:-1,History 2 HD
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/13946.ts
-#EXTINF:-1,MX |* NATGEO WILD FHD
+#EXTINF:-1,MX |* NATGEO
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310668
 #EXTINF:-1,MX |* NATGEO HD
-http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310669
+http://190.0.241.181:8000/play/a07x/index.m3u8
 #EXTINF:-1,ANIMAL PLANET HD
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1595667
 #EXTINF:-1,MX |* ANIMAL PLANET HD
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310641
 #EXTINF:-1,TNT Series HD
+http://190.0.241.181:8000/play/a09l/index.m3u8
+#EXTINF:-1,TNT Series SD
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/13993.ts
 #EXTINF:-1,AXN HD
-http://sudaka.link:25461/jotace62/KxU3de1Fr5/13991.ts
+http://190.0.241.181:8000/play/a090/index.m3u8
 #EXTINF:-1,MX |* AXN SERIES HD
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310640
 #EXTINF:-1,MX || AMC HD
@@ -110,30 +114,42 @@ http://sudaka.link:25461/jotace62/KxU3de1Fr5/15678.ts
 #EXTINF:-1,MX |* SYFY FHD
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310678
 #EXTINF:-1,MX |* WARNER FHD
+http://190.0.241.181:8000/play/a0b4/index.m3u8
+#EXTINF:-1,MX |* WARNER hd
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310644
 #EXTINF:-1,MX |* MTV FHD
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310649
 #EXTINF:-1,MX |* ESTUDIO UNIVERSAL HD
-http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310676
+http://190.0.241.181:8000/play/a0bt/index.m3u8
 #EXTINF:-1,Studio Universal HD
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/15687.ts
 #EXTINF:-1,MX |* FX HD
-http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310613
+http://190.0.241.181:8000/play/a0by/index.m3u8
 #EXTINF:-1,FX HD
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/242.ts
 #EXTINF:-1,Star Channel HD
+http://190.0.241.181:8000/play/a0bn/index.m3u8
+#EXTINF:-1,Star Channel HD
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/13984.ts
+#EXTINF:-1,SONY channel HD
+http://190.0.241.181:8000/play/a0b3/index.m3u8
 #EXTINF:-1,SONY channel HD
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1595639
 #EXTINF:-1,SONY CINE HD
+http://tvnox.sytes.net:7781/udp://@239.0.4.41:5501
+#EXTINF:-1,SONY CINE HD1
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310648
 #EXTINF:-1,MX |* TNT HD
+http://181.78.7.90:12500/play/a00p/index.m3u8
+#EXTINF:-1,MX |* TNT SD
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310661
 #EXTINF:-1,MX |* SPACE HD
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310598
 #EXTINF:-1,Space HD
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/14002.ts
 #EXTINF:0,UNIVERSAL CHANNEL HD
+http://190.0.241.181:8000/play/a0bu/index.m3u8
+#EXTINF:0,UNIVERSAL CHANNEL HD1
 http://45.232.148.101:8000/play/a0od/index.m3u8
 #EXTINF:0,UNIVERSAL PREMIERE HD1
 http://45.190.187.105:58092/play/a05q
@@ -141,75 +157,105 @@ http://45.190.187.105:58092/play/a05q
 http://200.59.188.3:8000/play/a06u
 #EXTINF:-1,UNIVERSAL PREMIER HD
 https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvKWbOgyzMQ8n1-g6o9ZZKwI/m3u8
-#EXTINF:0,UNIVERSAL COMEDY HD1
-http://190.61.117.35:8000/play/a04z
-#EXTINF:0,UNIVERSAL CRIMEN HD1
-http://181.78.105.146:6060/play/a03s
 #EXTINF:-1,Cinemax HD
+http://190.0.241.181:8000/play/a0c2/index.m3u8
+#EXTINF:-1,Cinemax HD1
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/15966.ts
 #EXTINF:-1,MX |* CINECANAL HD
-http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310634
+http://190.0.241.181:8000/play/a0b2/index.m3u8
 #EXTINF:-1,Cinecanal HD
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/13971.ts
 #EXTINF:-1,MX |* PARAMOUNT HD
+http://190.0.241.181:8000/play/a0av/index.m3u8
+#EXTINF:-1,MX |* PARAMOUNT HD1
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310665
-#EXTINF:-1,MX |* GOLDEN PREMIER HD
+#EXTINF:-1,MX |* GOLDEN EDGE HD
+http://190.0.241.181:8000/play/a0bq/index.m3u8
+#EXTINF:-1,MX |* GOLDEN EDGE HD1
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310609
-#EXTINF:-1,MX |* GOLDEN HD
-http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310652
-#EXTINF:-1,HBO HD
-http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310584
-#EXTINF:-1,HBO 2 HD
-http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310585
-#EXTINF:-1,HBO FAMILY HD
-http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310586
-#EXTINF:-1,HBO PLUS HD
-http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310588
-#EXTINF:-1,HBO SIGNATURE HD
-http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310589
-#EXTINF:-1,HBO XTREME HD
-http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310590
-#EXTINF:-1,MX |* HBO XTREME HD
-http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310603
-#EXTINF:-1,MX |* HBO FAMILY HD
-http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310604
-#EXTINF:-1,MX |* HBO 2 HD
-http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310606
-#EXTINF:-1,MX |* HBO HD
-http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310607
-#EXTINF:-1,MX |* HBO SIGNATURE HD
-http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310672
-#EXTINF:-1,MX |* HBO POP HD
-http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310673
-#EXTINF:-1,HBO POP HD
-http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310578
-#EXTINF:-1,MX |* HBO PLUS HD
-http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310674
-#EXTINF:,Europa HD1
+#EXTINF:-1,MX |* GOLDEN plus HD
+http://190.0.241.181:8000/play/a04u/index.m3u8
+#EXTINF:-1,MX |* GOLDEN plus HD1
+http://190.0.241.181:8000/play/GOLDENNUEVO/index.m3u8
+#EXTINF:0, HBO.HD2
+http://181.176.153.107:8090/play/a0yj/index.m3u8
+#EXTINF:0, HBO.HD6
+http://190.216.162.153:8001/play/a03y/index.m3u8
+#EXTINF:0, HBO2.HD2
+http://181.176.153.107:8090/play/a16c/index.m3u8
+#EXTINF:0, HBO2.HD6
+http://38.187.2.125:8000/play/a091
+#EXTINF:0, HBO.Family.HD2
+http://181.176.155.7:8090/play/a1au/index.m3u8
+#EXTINF:0, HBO.Family.HD6
+http://177.53.155.236:8000/play/a0gy/index.m3u8
+#EXTINF:0, HBO.POP.HD2
+http://181.176.155.7:8090/play/a0qc/index.m3u8
+#EXTINF:0, HBO.POP.HD6
+http://190.216.162.153:8001/play/a040/index.m3u8
+#EXTINF:0, HBO XTREME.HD2
+http://181.119.86.1:8000/play/a04a
+#EXTINF:0, HBO XTREME.HD6
+http://200.60.46.118:8000/play/a00g/index.m3u8
+#EXTINF:0, HBO.Signature.HD2
+http://190.119.40.74:8200/play/a0n3/index.m3u8
+#EXTINF:0, HBO.Signature.HD6
+http://204.199.174.71:8000/play/a092/index.m3u8
+#EXTINF:0, HBO.MUNDI.HD2
+http://190.123.90.146:8000/play/a027/index.m3u8
+#EXTINF:0, HBO.MUNDI.HD6
+http://190.119.40.74:8200/play/a0n4/index.m3u8
+#EXTINF:0, HBO.PLUS.HD2
+http://38.191.90.77:8000/play/a010/index.m3u8
+#EXTINF:0, HBO.PLUS.HD6
+http://177.53.155.236:8000/play/a05w/index.m3u8
+#EXTINF:-1, 24/7 VIP Cinema Accion Classics FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50572
+#EXTINF:-1, 24/7 VIP Cinema Familia FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50581
+#EXTINF:-1, 24/7 VIP Cinema Marvel Studios FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50586
+#EXTINF:-1, 24/7 VIP Cocina Abierta FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50588
+#EXTINF:-1, 24/7 Cine Estelar HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333122
+#EXTINF:0, Sun Channel HD4
+http://181.78.105.146:6060/play/a00v
+#EXTINF:, Europa HD1
 http://45.71.37.194:8010/play/a0a2/index.m3u8
-#EXTINF:0,HOLA TV HD1
+#EXTINF:0, HOLA TV HD1
 http://177.53.155.236:8000/play/a08w/index.m3u8
-#EXTINF:0,TLNOVELAS
+#EXTINF:0, TLNOVELAS
 http://190.216.162.153:8001/play/a05x/index.m3u8
-#EXTINF:0,UNIVISION
+#EXTINF:0, UNIVISION
 http://200.115.120.1:8000/play/ca110/index.m3u8
-#EXTINF:0,PASIONES
+#EXTINF:0, PASIONES
 http://186.148.196.82:8001/play/pasiones
-#EXTINF:0,LAS ESTRELLAS
+#EXTINF:0, LAS ESTRELLAS
 http://181.176.155.7:8090/play/a140/index.m3u8
-#EXTINF:-1,Netflix Estrenos 2024
+#EXTINF:0, America HD2
+http://181.176.153.107:8090/play/a0ya/index.m3u8
+#EXTINF:0, Panamericana HD2
+http://181.176.153.107:8090/play/a0n3/index.m3u8
+#EXTINF:0, ATV HD3
+http://181.78.7.90:12500/play/a0gj/index.m3u8
+#EXTINF:0, VePlusTV
+http://tvnox.sytes.net:7781/udp://@239.0.4.144:5501
+#EXTINF:-1, Netflix Estrenos 2024
 http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1726914
-#EXTINF:-1,Prime video Estrenos 2024
+#EXTINF:-1, Prime video Estrenos 2024
 http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1721669
-#EXTINF:-1,Venus
+#EXTINF:-1, Venus
 http://190.60.40.35:12500/play/VENUS/index.m3u8
-#EXTINF:-1,Sextreme
+#EXTINF:-1, Sextreme
 http://190.60.40.35:12500/play/SEXTREME/index.m3u8
-#EXTINF:-1,WIN SPORT+ t
+#EXTINF:245,Playboy HD
+http://tvnox.sytes.net:7781/udp://@239.0.40.248:5501
+#EXTINF:-1, WIN SPORT+ t
 http://181.78.7.90:12500/play/WINMAS/index.m3u8
-#EXTINF:-1,WIN SPORT+ t
+#EXTINF:-1, WIN SPORT+ t
 http://190.60.40.35:12500/play/WINMAS/index.m3u8
-#EXTINF:-1,WIN SPORT+ HD11
+#EXTINF:-1, WIN SPORT+ HD11
 http://45.184.87.142:8000/play/a04d
-#EXTINF:-1,WIN SPORT+ HD12
+#EXTINF:-1, WIN SPORT+ HD12
 http://181.119.86.1:8000/play/a01s
